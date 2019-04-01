@@ -1,4 +1,4 @@
-# These are answers to the following questions 
+# The answers to the following questions are in the notebook
 ## Umuzi assignment 2: Predicting salary differences
 ## Simple Linear Regression
 
